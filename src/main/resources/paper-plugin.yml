@@ -1,0 +1,5 @@
+name: ActionBarMobHealth
+version: '1'
+main: me.kaktus.ActionBarMobHealth
+api-version: '1.21'
+load: STARTUP
